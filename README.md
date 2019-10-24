@@ -1,4 +1,5 @@
 # IOT-Fire-Warning-System
+This project is part of a group assignment where we had to design and implement a smart fire detection system using Internet of Things technologies. The hardware components consists of a Raspberry Pi Zero W and Enviro pHAT. This system is able to detect and monitor environmental parameters such as temperature/humidity changes, as well as generate alarms/alerts when these parameters go above a predetermined threshold.
 
 ## Setup
 1. Ensure Raspberry PI is connected to the same network
