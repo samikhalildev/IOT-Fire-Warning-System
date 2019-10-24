@@ -19,6 +19,6 @@ cd IOT-Fire-Warning-System
 ```
 node-red
 ```
-6. Open the browser and go to ip_address:1880 (Note the ip address is the one returned in step 2)
-7. Import FDW.json into Node red to view the project flow
-8. Click deploy and go to ip_address/ui to view the dashboard in the browser
+6. Open the browser and go to "ip_address:1880" (Note the ip address is the one returned in step 2)
+7. Import FDW_flow.json into Node red to view the project flow
+8. Click deploy and go to "ip_address/ui" to view the dashboard in the browser
