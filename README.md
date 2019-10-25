@@ -16,7 +16,10 @@ ssh pi@address
 git clone https://github.com/samikhalildev/IOT-Fire-Warning-System.git
 cd IOT-Fire-Warning-System
 ```
-5. Run Node red 
+
+5. Ensure that you have Node JS, node-red, sqlite3 and git installed on the PI
+
+6. Run Node red
 ```
 node-red
 ```
