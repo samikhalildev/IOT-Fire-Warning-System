@@ -4,24 +4,24 @@ This project is part of a group assignment where we had to design and implement 
 ## Setup
 1. Ensure Raspberry PI is connected to the same network
 2. Ping raspberrypi to find the IP address
-```
-ping raspberrypi.local
-```
+  ```sh
+     ping raspberrypi.local
+  ```
 3. Connect to the PI via SSH
-```
-ssh pi@address
+```sh
+   ssh pi@address
 ```
 4. Once connected succesfully, clone the project
-```
-git clone https://github.com/samikhalildev/IOT-Fire-Warning-System.git
-cd IOT-Fire-Warning-System
+```sh
+   git clone https://github.com/samikhalildev/IOT-Fire-Warning-System.git
+   cd IOT-Fire-Warning-System
 ```
 
 5. Ensure that you have Node JS, node-red, sqlite3 and git installed on the PI
 
 6. Run Node red
-```
-node-red
+```sh
+   node-red
 ```
 6. Open the browser and go to "ip_address:1880" (Note the ip address is the one returned in step 2)
 7. Import FDW_flow.json into Node red to view the project flow
