@@ -17,7 +17,7 @@ This project is part of a group assignment where we had to design and implement 
    cd IOT-Fire-Warning-System
 ```
 
-5. Ensure that you have Node JS, node-red, sqlite3 and git installed on the PI
+5. Ensure that you have NodeJS, node-red and sqlite3 installed on the PI
 
 6. Run Node red
 ```sh
